@@ -6,8 +6,11 @@ Task: What is the linux command to
 2. List all the files or directories including hidden files.
 3. Create a nested directory A/B/C/D/E
 
-Note: [Check this file for reference](basic_linux_commands.md)
+Note: [Check this file for reference](Basic_Linux_Commands.md)
 
 Check the basic_linux_commands.md file on the same directory Day01
+<<<<<<< HEAD
 
 [Next Day →](../Day02/README.md)
+=======
+>>>>>>> ab9c08223d2216e1e40d0a86d29a02dae9663d9c
