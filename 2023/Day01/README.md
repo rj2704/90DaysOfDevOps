@@ -8,9 +8,4 @@ Task: What is the linux command to
 
 Note: [Check this file for reference](Basic_Linux_Commands.md)
 
-Check the basic_linux_commands.md file on the same directory Day01
-<<<<<<< HEAD
-
 [Next Day →](../Day02/README.md)
-=======
->>>>>>> ab9c08223d2216e1e40d0a86d29a02dae9663d9c
