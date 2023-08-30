@@ -9,3 +9,5 @@ Task: What is the linux command to
 Note: [Check this file for reference](basic_linux_commands.md)
 
 Check the basic_linux_commands.md file on the same directory Day01
+
+[Next Day →](../Day02/README.md)
