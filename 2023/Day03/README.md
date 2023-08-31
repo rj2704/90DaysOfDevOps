@@ -1,4 +1,4 @@
-# Day 4 Task: Basic Linux Shell Scripting for DevOps Engineers.
+# Day 3 Task: Basic Linux Shell Scripting for DevOps Engineers.
 
 ## What is Kernel
 
@@ -20,9 +20,6 @@ A shell script is a computer program designed to be run by a linux shell, a comm
 - Write a Shell Script to take user input, input from arguments and print the variables.
 - Write an Example of If else in Shell Scripting by comparing 2 numbers
 
-Was it difficult?
-
-- Post about it on LinkedIn and Let me know :)
 
 Article Reference: [Click here to read basic Linux Shell Scripting](https://devopscube.com/linux-shell-scripting-for-devops/)
 
