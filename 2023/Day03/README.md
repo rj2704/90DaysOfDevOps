@@ -23,4 +23,4 @@ A shell script is a computer program designed to be run by a linux shell, a comm
 
 Article Reference: [Click here to read basic Linux Shell Scripting](https://devopscube.com/linux-shell-scripting-for-devops/)
 
-[← Previous Day](../Day02/README.md) 
+[← Previous Day](../Day02/README.md) | [Next Day →](../Day04/README.md)
