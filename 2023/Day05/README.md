@@ -1,4 +1,4 @@
-# Day 6 Task: File Permissions and Access Control Lists
+# Day 5 Task: File Permissions and Access Control Lists
 
 ### Today is more on Reading, Learning and Implementing File permissions
 
