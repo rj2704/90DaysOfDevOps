@@ -1,4 +1,4 @@
-# Day 8 Task: Basic Git & GitHub for DevOps Engineers.
+# Day 7 Task: Basic Git & GitHub for DevOps Engineers.
 
 ## What is Git?
 
@@ -45,4 +45,4 @@ Overall, the decentralized nature of a DVCS allows for greater collaboration, fl
 3. Push the changes back to the repository on GitHub
 
 
-[← Previous Day](../Day06/README.md)
+[← Previous Day](../Day06/README.md) | [Next Day →](../Day08/README.md)
