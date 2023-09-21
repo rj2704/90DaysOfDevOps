@@ -71,4 +71,4 @@ Write a program to add `Digital Ocean` to the list of cloud_providers and sort t
 [Hint: Use keys to built in functions for Lists]
 
 
-[← Previous Day](../Day10/README.md) 
+[← Previous Day](../Day10/README.md) | [Next Day →](../Day12/README.md)
