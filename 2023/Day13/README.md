@@ -22,4 +22,4 @@ Docker is a software platform that allows you to build, test, and deploy applica
 
 These tasks involve simple operations that can be used to manage images and containers.
 
-[← Previous Day](../Day12/README.md) 
+[← Previous Day](../Day12/README.md) | [Next Day →](../Day14/README.md)
