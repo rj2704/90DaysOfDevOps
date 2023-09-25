@@ -21,4 +21,4 @@ task:
 
 Happy Learning😃
 
-[← Previous Day](../Day13/README.md) 
+[← Previous Day](../Day13/README.md) | [Next Day →](../Day15/README.md)
