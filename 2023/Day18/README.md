@@ -22,4 +22,4 @@ Note: By now Jenkins should be installed on your machine(as it was a part of pre
 Hint: Use link for [Article](https://www.geeksforgeeks.org/what-is-jenkins)
 
 
-[← Previous Day](../Day17/README.md) 
+[← Previous Day](../Day17/README.md) | [Next Day →](../Day19/README.md)
