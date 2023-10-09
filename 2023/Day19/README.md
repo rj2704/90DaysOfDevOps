@@ -33,4 +33,4 @@ A freestyle project in Jenkins is a type of project that allows you to build, te
 
 Happy Learning:)
 
-[← Previous Day](../Day18/README.md) 
+[← Previous Day](../Day18/README.md) | [Next Day →](../Day20/README.md)
