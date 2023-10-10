@@ -53,4 +53,4 @@ pipeline {
 
 Happy Learning:)
 
-[← Previous Day](../Day19/README.md) 
+[← Previous Day](../Day19/README.md) | [Next Day →](../Day21/README.md)
