@@ -1,4 +1,4 @@
-# Day 27 Task: Jenkins Declarative Pipeline with Docker
+# Day 21 Task: Jenkins Declarative Pipeline with Docker
 
 Day 26 was all about a Declarative pipeline, now its time to level up things, let's integrate Docker and your Jenkins declarative pipeline
 
@@ -36,4 +36,4 @@ stages {
 
 Happy Learning:)
 
-[← Previous Day](../Day20/README.md) 
+[← Previous Day](../Day20/README.md) | [Next Day →](../Day22/README.md)

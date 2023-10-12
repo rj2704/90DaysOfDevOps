@@ -1,4 +1,4 @@
-# Day 26 Task: Jenkins Declarative Pipeline
+# Day 20 Task: Jenkins Declarative Pipeline
 
 One of the most important parts of your DevOps and CICD journey is a Declarative Pipeline Syntax of Jenkins.
 
