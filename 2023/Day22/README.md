@@ -42,4 +42,4 @@ While creating an agent, be sure to separate rights, permissions, and ownership 
 
 Happy Learning:)
 
-[← Previous Day](../Day21/README.md) 
+[← Previous Day](../Day21/README.md) | [Next Day →](../Day23/README.md)
